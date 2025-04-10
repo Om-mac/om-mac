@@ -45,7 +45,7 @@ Here are some cool things I've built or am working on:
 ## 📫 Contact Me
 
 - 💼 LinkedIn: [Om Tapdiya](https://www.linkedin.com/in/om-tapdiya-438549272/)
-- 📧 Email: *[add your email here if you'd like]*
+- 📧 Email: *[omtapdiya75@gmail.com]*
 
 ---
 
