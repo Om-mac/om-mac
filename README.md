@@ -4,7 +4,7 @@ I'm a passionate tech enthusiast and a diploma student exploring the world of so
 Currently building smart solutions with **Python**, and **Java**.
 
 - 🎓 Completed Diploma in Information Technology , currently in Second Year VIT,Pune student.
-- 💡 Working on Smart Home Automation & Cloud-based projects
+- 💡 Gen-ai and Cloud-based projects
 - 🌱 Always learning new tech and building real-world applications
 
 --
