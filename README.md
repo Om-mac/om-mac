@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Om
 
 I'm a passionate tech enthusiast and a diploma student exploring the world of software development, IoT, and AI/ML.  
-Currently building smart solutions with **Python**, and **Java**.
+Currently building smart solutions with **Python**, and **C++**.
 
 - 🎓 Completed Diploma in Information Technology , currently in Second Year VIT,Pune student.
 - 💡 Gen-ai and Cloud-based projects
