@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Om
 
-I'm a passionate tech enthusiast and engineering student exploring the world of software development, IoT, and AI/ML.  
-Currently building smart solutions with **Python**, **Java**, and **C++**.
+I'm an avid technology lover and engineering student delving into the realm of software development, IoT, and AI/ML.
+Presently developing intelligent solutions using **Python**, **Java**, and **C++**
 
 ## 🎓 About Me
 
