@@ -7,7 +7,7 @@ Presently developing intelligent solutions using **Python**, **Java**, and **C++
 
 - 🎯 Currently pursuing **B.Tech in Engineering** at **VIT, Pune** (Second Year)
 - 📜 Completed **Diploma in Information Technology** with strong foundation in programming and systems
-- 💼 **IoT Intern** - Gained hands-on experience in building IoT solutions, sensor integration, and embedded systems
+- 💼 **IoT Intern** - Gained hands-on experience in building IoT enabled devices, sensors integration, and embedded systems.
 - 💡 Working on Gen-AI and Cloud-based projects
 - 🌱 Always learning new tech and building real-world applications
 - 🔧 Specialized in developing smart automation systems and full-stack applications
